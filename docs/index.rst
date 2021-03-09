@@ -13,3 +13,8 @@ DMAI作业批改引擎接口文档
 
    interface
 
+.. toctree::
+   :caption: 规格说明
+   :maxdepth: 2
+
+   specification
