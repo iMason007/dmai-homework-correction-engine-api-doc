@@ -44,7 +44,7 @@ POST http://am-daip.dev.dm-ai.cn/api/v1/subject
 
 1.4. 正确请求示例
 --------------------------------------
-.. code-block::
+.. code-block:: python
 
     token: Tfbzvepj0rrpwkbPhm9CuhIe6jtiCDth
     --------------------------------------
